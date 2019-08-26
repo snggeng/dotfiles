@@ -8,7 +8,7 @@ cd "$(dirname "${BASH_SOURCE[0]}")" \
 
 print_in_purple "\n   FZF\n\n"
 
-brew install fzf
+brew_install "FZF" "fzf"
 
 # To install useful key bindings and fuzzy completion:
 $(brew --prefix)/opt/fzf/install
