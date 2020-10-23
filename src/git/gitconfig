@@ -171,6 +171,7 @@
 
     useConfigOnly = true
 	signingkey = 4F7F285C3B21D3CF
+	email = snggeng@users.noreply.github.com
 
 [include]
 
